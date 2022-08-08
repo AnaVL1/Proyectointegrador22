@@ -1,0 +1,17 @@
+.row {
+padding: 20px;
+}
+
+div{
+    background-color:#a1b5cb;
+    text-align: center;
+}
+
+/*Estilo de la foto de perfil*/
+
+
+/*Etiqueta nombre*/
+#nombre{
+    font-weith: bold;
+    marging-top: 30%;
+}
